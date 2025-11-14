@@ -1,6 +1,6 @@
 ## Image Incryption — Chaotic + DNA-inspired Image Encryption
 
-Image Incryption is a teaching/experimental project that encrypts color images using:
+Image  is a teaching/experimental project that encrypts color images using:
 
 * **Permutation (confusion)** via the **logistic map**
 * **Diffusion** via the **Chebyshev map**
